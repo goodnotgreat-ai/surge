@@ -36,7 +36,6 @@ DOMAIN-KEYWORD,mgtv
 DOMAIN-KEYWORD,lazycat
 DOMAIN-KEYWORD,hitv
 DOMAIN-SUFFIX,ap.spotify.com
-
 DOMAIN-SUFFIX,ubereatpro.com
 DOMAIN-SUFFIX,detecas.com
 DOMAIN-SUFFIX,mlytics.com
@@ -82,7 +81,6 @@ DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,tiyucdn.com
 DOMAIN-SUFFIX,myp2pch.net
 DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com
-
 DOMAIN,mtalk.google.com
 DOMAIN,mobile-gtalk.l.google.com
 DOMAIN,alt1-mtalk.google.com
@@ -95,7 +93,6 @@ DOMAIN,alt7-mtalk.google.com
 DOMAIN,alt8-mtalk.google.com
 DOMAIN,alt9-mtalk.google.com
 DOMAIN-SUFFIX,mobile-gtalk.l.google.com
-
 DOMAIN-SUFFIX,live.tvfix.org
 DOMAIN-SUFFIX,tvfix.org
 DOMAIN-KEYWORD,tvfix
@@ -314,8 +311,6 @@ IP-CIDR,10.0.0.0/8,no-resolve
 IP-CIDR,172.16.0.0/12,no-resolve
 IP-CIDR,127.0.0.0/8,no-resolve
 IP-CIDR,100.64.0.0/10,no-resolve
-
-
 IP-CIDR,192.168.91.9/32,no-resolve
 IP-CIDR,192.168.91.202/32,no-resolve
 IP-CIDR,192.168.91.110/32,🇰🇷 韩国节点,no-resolve
