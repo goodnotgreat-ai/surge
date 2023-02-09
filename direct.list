@@ -1,4 +1,5 @@
 USER-AGENT,SpeedTest*
+DOMAIN-KEYWORD,ooklaserver.net:8080
 DOMAIN-KEYWORD,speedtest
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,ooklaserver.net
