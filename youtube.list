@@ -366,4 +366,4 @@ IP-CIDR6,2620:120:e000::/40
 USER-AGENT,*youtube*
 USER-AGENT,YouTube*
 USER-AGENT,com.google.ios.youtube*
-mtalk.google.com
+DOMAIN-SUFFIX,mtalk.google.com
