@@ -309,7 +309,6 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhuihd.com
 DOMAIN,download.jetbrains.com
 DOMAIN-SUFFIX,local
-DOMAIN,mtalk.google.com
 PROCESS-NAME,storedownloadd
 USER-AGENT,com.apple.appstored*
 DOMAIN,aod.itunes.apple.com
