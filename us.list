@@ -1,7 +1,6 @@
+DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,hostloc.com
-DOMAIN-SUFFIX,accounts.meetdapper.com
 DOMAIN-SUFFIX,meetdapper.com
-DOMAIN-SUFFIX,nbatopshot.com
 DOMAIN-KEYWORD,nbatopshot
 PROCESS-NAME,tv.twitch.android.app
 DOMAIN-KEYWORD,ttvnw
@@ -10,7 +9,6 @@ DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,jtvnw.net
-PROCESS-NAME,tv.twitch.android.app
 DOMAIN-SUFFIX,ext-twitch.tv
 DOMAIN-SUFFIX,twitch-ext.rootonline.de
 DOMAIN-SUFFIX,p-cdn.us
