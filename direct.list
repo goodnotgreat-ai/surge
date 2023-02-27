@@ -69,5 +69,4 @@ DOMAIN-SUFFIX,cinemaz.to
 DOMAIN-SUFFIX,avistaz.to
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,ultrahd.net
-IP-CIDR,192.168.91.9/32,no-resolve
 IP-CIDR,192.168.91.234/32,no-resolve
