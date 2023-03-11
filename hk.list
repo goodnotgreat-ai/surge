@@ -1,6 +1,8 @@
 DOMAIN-KEYWORD,now
 DOMAIN-KEYWORD,nowe
 DOMAIN-KEYWORD,youboranqs01
+DOMAIN-SUFFIX,emarsys.net
+DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,now.com
 DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,nowestatic.com
@@ -10,13 +12,7 @@ DOMAIN-SUFFIX,now.com.hk
 DOMAIN-SUFFIX,nowe.hk
 DOMAIN-SUFFIX,nowtv.now.com
 DOMAIN-SUFFIX,pccw-cf-epl.akamaized.net
-DOMAIN-SUFFIX,faas-voplayer.viaccess-orca.com
-DOMAIN-SUFFIX,servicestatus-voplayer.viaccess-orca.com
-DOMAIN-SUFFIX,cers-voplayer.viaccess-orca.com
-DOMAIN-SUFFIX,litix.io
-DOMAIN-SUFFIX,pndsn.com
-DOMAIN-SUFFIX,dicelaboratory.com
-DOMAIN-SUFFIX,sehuatang.net
+DOMAIN-SUFFIX,viaccess-orca.com
 DOMAIN-SUFFIX,image.tmdb.org
 DOMAIN-SUFFIX,api.tmdb.org
 DOMAIN-SUFFIX,api.jhdyw.vip
