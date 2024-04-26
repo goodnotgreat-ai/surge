@@ -1,0 +1,9 @@
+DOMAIN-SUFFIX,ios.ngp.prod.cloud.netflix.com,REJECT
+DOMAIN-SUFFIX,ios.prod.cloud.netflix.com,REJECT
+DOMAIN-SUFFIX,appboot.netflix.com,REJECT
+
+
+hijack-dns = *:53
+always-real-ip = ios.prod.cloud.netflix.com:443, appboot.netflix.com:443, ios.ngp.prod.cloud.netflix.com:443,ios.ngp.prod.cloud.netflix.com:443, *.netflix.com:443
+IP-CIDR,8.8.4.4/32,REJECT,no-resolve
+IP-CIDR,8.8.8.8/32,REJECT,no-resolve
