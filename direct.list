@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,hicloud.com
+DOMAIN-SUFFIX,cdnhwc5.com
 DOMAIN-SUFFIX,dbankcloud.cn
 DOMAIN-SUFFIX,btschool.club
 DOMAIN-SUFFIX,pthome.net
@@ -33,7 +34,6 @@ DOMAIN-KEYWORD,betvictor
 DOMAIN-KEYWORD,m88
 DOMAIN-KEYWORD,ooklaserver
 DOMAIN-KEYWORD,speedtest
-DOMAIN-KEYWORD,cdnhwc
 DOMAIN-KEYWORD,tmall
 PROCESS-NAME,aria2c.exe
 PROCESS-NAME,aria2c
