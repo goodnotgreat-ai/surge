@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,CN
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,servicewechat.com
@@ -31,7 +33,6 @@ DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,ultrahd.net
 DOMAIN-SUFFIX,ls.apple.com
 DOMAIN-SUFFIX,store.apple.com
-DOMAIN-SUFFIX,CN
 DOMAIN-KEYWORD,betvictor
 DOMAIN-KEYWORD,m88
 DOMAIN-KEYWORD,ooklaserver
